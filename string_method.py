@@ -1,0 +1,31 @@
+name="Abuzar"
+print(name.upper())
+print(name.lower())
+b="Ab uz ar??? ??"
+print(b.rstrip("?"))
+print(b.replace("Abuzar?????","John"))
+print(b)
+print(b.split(" "))
+c= "helloworld"
+print(c.capitalize())
+d="WELLCOME homE"
+print(d.capitalize())
+e= "I am new to banglore\n"
+print(e.center(55))
+print(c.count("l"))
+print(b.endswith("?"))
+print(e.endswith("new",0,8))
+print(c.find("l"))
+print(b.find("l"))
+print(name.replace("Abuzar","john"))
+print(c.rstrip("rld"))
+print(b.isalnum())
+print(c.isalpha())
+print(d.islower())
+print(e.isprintable())
+print(name.isspace())
+print(e.istitle())
+print(e.isupper())
+print(e.startswith("new",5))
+print(d.swapcase())
+print(e.title())

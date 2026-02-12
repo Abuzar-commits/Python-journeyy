@@ -1,0 +1,11 @@
+a={1,2,3,4,5}
+b={6,7,8,9,0}
+print(a.isdisjoint(b))
+c={1,2,3,4,5}
+d={2,3}
+print(c.issuperset(d))
+print(d.issubset(c))
+c.add(6)
+print(c)
+c.remove(6)
+print(c)

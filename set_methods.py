@@ -1,0 +1,10 @@
+s={1,2,3,4,5}
+s2={3,6,7}
+print(s.intersection(s2))
+print(s.union(s2))
+s.update(s2)
+print(s,s2)
+s1=s.symmetric_difference(s2)
+print(s1)
+s4=s.difference(s2)
+print(s4)

@@ -2,6 +2,12 @@
 
 This guide describes how to integrate key results areas (KRAs), key performance indicators (KPIs), 1:1 feedback parameters, and team goals into a single Looker Studio dashboard. It includes a lightweight data model, sample sheet layout, and the core steps to publish the dashboard.
 
+## Quick Start
+
+1. Upload `data/kra_kpi_sample.csv` to Google Sheets (or BigQuery).
+2. Connect the sheet/table as a data source in Looker Studio and add the calculated fields listed below.
+3. Build scorecards, time series, and tables using the suggested visuals, then publish the report to your team.
+
 ## Data Model
 
 Use a single table (Google Sheet or BigQuery table) with the following columns:

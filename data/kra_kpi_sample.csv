@@ -1,0 +1,6 @@
+Person,Role,TeamGoal,KRA,KPI,Target,Actual,PeriodStart,PeriodEnd,FeedbackScore,FeedbackNotes,Manager,UpdatedAt
+Alex Chen,Engineer,Ship reliable releases,Delivery,Stories completed,40,38,2026-01-01,2026-03-31,4,"Hit most sprint goals; dependency delays noted",Priya Singh,2026-03-15T09:30:00Z
+Alex Chen,Engineer,Ship reliable releases,Quality,Defect escape rate (%),2,1.5,2026-01-01,2026-03-31,4,"Quality improving after new test suite",Priya Singh,2026-03-15T09:30:00Z
+Jordan Lee,PM,Improve customer adoption,Growth,Weekly active workspaces,120,135,2026-01-01,2026-03-31,5,"Great customer interviews; keep cadence",Arun Patel,2026-03-16T11:00:00Z
+Jordan Lee,PM,Improve customer adoption,Engagement,NPS (quarterly),55,48,2026-01-01,2026-03-31,3,"Need to address onboarding friction",Arun Patel,2026-03-16T11:00:00Z
+Samira Khan,Engineering Manager,Team health,People,1:1 completion rate (%),95,92,2026-01-01,2026-03-31,5,"Team appreciates structured 1:1s",Taylor Brooks,2026-03-17T14:15:00Z
